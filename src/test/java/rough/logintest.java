@@ -12,6 +12,7 @@ public class logintest {
 		
 		
   Homepage obj= new Homepage();
+
   obj.docustomer();
   Supportpage obj1 = new Supportpage();
   obj1.clickOnSupportLink();
